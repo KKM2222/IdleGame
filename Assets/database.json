@@ -1,0 +1,23 @@
+{
+    "jelatin": 696,
+    "gold": 144600,
+    "jelly_unlock_list": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "jelly_list": [],
+    "num_level": 5,
+    "click_level": 5,
+    "bgm_vol": 0.5103352069854736,
+    "sfx_vol": 0.4625697433948517
+}
